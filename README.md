@@ -58,3 +58,7 @@ index i arg will become insertArg
 ::foreach<template <typename Arg> class Converter>
       
 Change parameter，foreach need a class has "using result";
+
+
+::explos
+A feature that should not be provided by the container
