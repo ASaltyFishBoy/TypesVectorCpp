@@ -1,4 +1,4 @@
-# TypeVectorCpp
+# TypesVectorCpp
 Type vector based on variable parameter template
 
 This is my personal exercise code for templates, so I did n’t really consider it a mature project
