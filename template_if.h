@@ -1,4 +1,4 @@
-#ifndef TEMPLATE_IF_H
+﻿#ifndef TEMPLATE_IF_H
 #define TEMPLATE_IF_H
 #include "template_types_base_class.h"
 namespace template_type_traits
